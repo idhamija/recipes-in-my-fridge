@@ -1,0 +1,61 @@
+.pointer {
+  cursor: pointer;
+}
+
+.no-bullets {
+  list-style-type: none;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.btn-nav {
+  position: fixed;
+  left: 44%;
+  bottom: 2.5%;
+}
+
+.alert-ing {
+  position: fixed;
+  bottom: 0;
+  right: 1%;
+}
+
+.spinner-rec {
+  position: fixed;
+  left: 48%;
+  top: 40%;
+  width: 4rem;
+  height: 4rem;
+}
+
+.btn-home {
+  position: absolute;
+  left: 45%;
+}
+
+.side-btn {
+  cursor: pointer;
+  color: #fff;
+  background: #0d6efd;
+}
+
+.side-btn:hover {
+  background: #0b5ed7;
+}
+
+.search_suggestions {
+  z-index: 1;
+  position: "absolute";
+  display: "flex";
+}
+
+.primary-hover:hover {
+  background: #0d6efd;
+  color: #fff;
+}
+
+.align-right {
+  float: right;
+}
