@@ -16,7 +16,7 @@ npm run install-dependencies
 
 ### Setup
 
-Create an account for [Spoonacular API](spoonacular.com) to get the API key.
+Create an account for [Spoonacular API](https://spoonacular.com/) to get the API key.
 
 Create a .env file in the following format:
 
