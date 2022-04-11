@@ -1,7 +1,7 @@
 {
   "name": "recipies-in-my-fridge",
   "version": "1.0.0",
-  "description": "A web app which recommends recipes to try based on the ingredients and special dietary preferences / intolerances users have.",
+  "description": "A web application to get recipe recommends based on the ingredients and special dietary preferences / intolerances users have.",
   "main": "server.js",
   "scripts": {
     "build-client": "cd client && npm run build",
